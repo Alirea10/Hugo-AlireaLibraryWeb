@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>寒冰与烈焰之冠 - AlireaLibrary</title>
+    <link>https://example.com/%E7%BD%97%E5%BE%B7%E5%B2%9B/%E5%AF%92%E5%86%B0%E4%B8%8E%E7%83%88%E7%84%B0%E4%B9%8B%E5%86%A0/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <atom:link href="https://example.com/%E7%BD%97%E5%BE%B7%E5%B2%9B/%E5%AF%92%E5%86%B0%E4%B8%8E%E7%83%88%E7%84%B0%E4%B9%8B%E5%86%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R401熔蜡</title>
+      <link>https://example.com/%E7%BD%97%E5%BE%B7%E5%B2%9B/%E5%AF%92%E5%86%B0%E4%B8%8E%E7%83%88%E7%84%B0%E4%B9%8B%E5%86%A0/r401%E7%86%94%E8%9C%A1/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/%E7%BD%97%E5%BE%B7%E5%B2%9B/%E5%AF%92%E5%86%B0%E4%B8%8E%E7%83%88%E7%84%B0%E4%B9%8B%E5%86%A0/r401%E7%86%94%E8%9C%A1/index.html</guid>
+      <description>熔蜡 P.Melt 分支 分支 描述 熔岩之心（类术战者） 攻击造成法术伤害，不断损失生命值；与霜羽同时在场时生命值损失速率降低 面板 攻击力 防御力 法抗 生命值 1081 468 20 4068 攻速 再部署 费用 阻挡 1.5s 70s 34 2 精二1级</description>
+    </item>
+    <item>
+      <title>R402凝羽</title>
+      <link>https://example.com/%E7%BD%97%E5%BE%B7%E5%B2%9B/%E5%AF%92%E5%86%B0%E4%B8%8E%E7%83%88%E7%84%B0%E4%B9%8B%E5%86%A0/r402%E5%87%9D%E7%BE%BD/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/%E7%BD%97%E5%BE%B7%E5%B2%9B/%E5%AF%92%E5%86%B0%E4%B8%8E%E7%83%88%E7%84%B0%E4%B9%8B%E5%86%A0/r402%E5%87%9D%E7%BE%BD/index.html</guid>
+      <description>凝羽 P.Freeze 分支 分支 描述 冰川之心（类不屈者） 攻击造成法术伤害，不断损失生命值；与熔蜡同时在场时生命值损失速率降低 面板 攻击力 防御力 法抗 生命值 680 608 25 2981 攻速 再部署 费用 阻挡 1.2s 90s 34 3 精二1级</description>
+    </item>
+  </channel>
+</rss>

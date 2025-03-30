@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>大图书馆 - AlireaLibrary</title>
+    <link>https://example.com/index.html</link>
+    <description>欢迎来到我——Alirea的【大图书馆】。&#xA;此网页使用 Hugo搭配主题 ReLearn生成，如果你也想试试看，可以使用这两个工具&#xA;尽管目前仍然是由我编写的明日方舟自制干员居多，但是也许未来我会用作别处？&#xA;如果你感兴趣，可以从这里开始阅读我自制的干员</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 29 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>罗德岛</title>
+      <link>https://example.com/%E7%BD%97%E5%BE%B7%E5%B2%9B/index.html</link>
+      <pubDate>Wed, 02 Oct 2024 01:52:24 +0800</pubDate>
+      <guid>https://example.com/%E7%BD%97%E5%BE%B7%E5%B2%9B/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>档案模板</title>
+      <link>https://example.com/%E6%A1%A3%E6%A1%88%E6%A8%A1%E6%9D%BF/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/%E6%A1%A3%E6%A1%88%E6%A8%A1%E6%9D%BF/index.html</guid>
+      <description>名字 分支 分支 描述 面板 攻击力 防御力 法抗 生命值 攻速 再部署 费用 阻挡 s 70s 精二1级</description>
+    </item>
+    <item>
+      <title>浮空之梦</title>
+      <link>https://example.com/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/index.html</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/index.html</guid>
+      <description>机制 梦境损伤： ID 内部ID 图标 常用/官方名称 损伤名称 元素爆发持续 元素爆发效果（对我方） 元素爆发效果（对敌方） 5 DREAM 谁给我做个图标？ 梦 梦境损伤 10s 获得10s元素免疫，10s沉睡；立刻受到1000点无来源真实无类型伤害 获得20s元素免疫，20s沉睡,沉睡期间受到的伤害提升100%</description>
+    </item>
+    <item>
+      <title>未见篇章</title>
+      <link>https://example.com/%E6%9C%AA%E8%A7%81%E7%AF%87%E7%AB%A0/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/%E6%9C%AA%E8%A7%81%E7%AF%87%E7%AB%A0/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

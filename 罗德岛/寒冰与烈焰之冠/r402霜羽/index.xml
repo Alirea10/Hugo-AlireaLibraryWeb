@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R402凝羽 :: Hugo Relearn Theme</title>
+    <link>http://localhost:1313/%E7%BD%97%E5%BE%B7%E5%B2%9B/%E5%AF%92%E5%86%B0%E4%B8%8E%E7%83%88%E7%84%B0%E4%B9%8B%E5%86%A0/r402%E9%9C%9C%E7%BE%BD/index.html</link>
+    <description>凝羽 分支 分支 描述 冰川之心（类不屈者） 攻击造成法术伤害，不断损失生命值；与熔蜡同时在场时生命值损失速率降低 面板 攻击力 防御力 法抗 生命值 680 608 25 2981 攻速 再部署 费用 阻挡 1.2s 90s 34 3 精二1级</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/%E7%BD%97%E5%BE%B7%E5%B2%9B/%E5%AF%92%E5%86%B0%E4%B8%8E%E7%83%88%E7%84%B0%E4%B9%8B%E5%86%A0/r402%E9%9C%9C%E7%BE%BD/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

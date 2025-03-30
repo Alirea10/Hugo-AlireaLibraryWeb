@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>浮空之梦 - AlireaLibrary</title>
+    <link>https://example.com/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/index.html</link>
+    <description>机制 梦境损伤： ID 内部ID 图标 常用/官方名称 损伤名称 元素爆发持续 元素爆发效果（对我方） 元素爆发效果（对敌方） 5 DREAM 谁给我做个图标？ 梦 梦境损伤 10s 获得10s元素免疫，10s沉睡；立刻受到1000点无来源真实无类型伤害 获得20s元素免疫，20s沉睡,沉睡期间受到的伤害提升100%</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 29 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DRM1圣娅</title>
+      <link>https://example.com/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drm1%E5%9C%A3%E5%A8%85/index.html</link>
+      <pubDate>Wed, 02 Oct 2024 01:52:24 +0800</pubDate>
+      <guid>https://example.com/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drm1%E5%9C%A3%E5%A8%85/index.html</guid>
+      <description>圣娅 Seia 分支 分支 描述 梦游者 攻击造成法术伤害，可以给予我方护盾 面板 攻击力 防御力 法抗 生命值 560 94 0 1660 攻速 再部署 费用 阻挡 3s 70s 18 1 精二1级</description>
+    </item>
+    <item>
+      <title>DRM2维可</title>
+      <link>https://example.com/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drm2%E7%BB%B4%E5%8F%AF/index.html</link>
+      <pubDate>Wed, 02 Oct 2024 01:52:24 +0800</pubDate>
+      <guid>https://example.com/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drm2%E7%BB%B4%E5%8F%AF/index.html</guid>
+      <description>维可 Wink 分支 分支 描述 守护者 技能可以治疗友方单位 面板 攻击力 防御力 法抗 生命值 483 684 10 2900 攻速 再部署 费用 阻挡 1.2s 70s 22 3 精二满级</description>
+    </item>
+    <item>
+      <title>DRM3莉丝</title>
+      <link>https://example.com/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drm3%E8%8E%89%E4%B8%9D/index.html</link>
+      <pubDate>Wed, 02 Oct 2024 01:52:24 +0800</pubDate>
+      <guid>https://example.com/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drm3%E8%8E%89%E4%B8%9D/index.html</guid>
+      <description>莉丝 Lith 分支 分支 描述 术战者 攻击造成法术伤害 面板 攻击力 防御力 法抗 生命值 710 299 10 3198 攻速 再部署 费用 阻挡 1.25s 70s 21 1 精二满级</description>
+    </item>
+    <item>
+      <title>DRD1烛台</title>
+      <link>https://example.com/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drd1%E7%83%9B%E5%8F%B0/index.html</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drd1%E7%83%9B%E5%8F%B0/index.html</guid>
+      <description>烛台 Candelabra 分支 分支 描述 中坚术师 攻击造成法术伤害 面板 攻击力 防御力 法抗 生命值 556 110 15 1245 攻速 再部署 费用 阻挡 1.6s 70s 21 1 精二1级</description>
+    </item>
+    <item>
+      <title>DRD2抹茶</title>
+      <link>https://example.com/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drd2%E6%8A%B9%E8%8C%B6/index.html</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drd2%E6%8A%B9%E8%8C%B6/index.html</guid>
+      <description>抹茶&#x9;Matcha 分支 分支 描述 处决者 再部署时间大幅度减少 面板 攻击力 防御力 法抗 生命值 385 322 0 2210 攻速 再部署 费用 阻挡 0.93s 18s 10 1 精二1级</description>
+    </item>
+  </channel>
+</rss>
