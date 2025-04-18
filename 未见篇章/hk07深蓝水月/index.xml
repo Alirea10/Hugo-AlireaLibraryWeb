@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HK07深蓝·水月 - AlireaLibrary</title>
+    <link>https://example.com/%E6%9C%AA%E8%A7%81%E7%AF%87%E7%AB%A0/hk07%E6%B7%B1%E8%93%9D%E6%B0%B4%E6%9C%88/index.html</link>
+    <description>深蓝·水月 Caerula Mizuki 分支 分支 描述 行医 恢复友方单位生命，并回复相当于攻击力50%的元素损伤（可以回复未受伤友方单位的元素损伤） 面板 攻击力 防御力 法抗 生命值 425 127 0 1337 攻速 再部署 费用 阻挡 2.85s 70s 16 1 精二1级</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <atom:link href="https://example.com/%E6%9C%AA%E8%A7%81%E7%AF%87%E7%AB%A0/hk07%E6%B7%B1%E8%93%9D%E6%B0%B4%E6%9C%88/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

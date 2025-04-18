@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>本舰目录 - AlireaLibrary</title>
+    <link>https://example.com/%E4%BF%A1%E6%81%AF/%E6%9C%AC%E8%88%B0%E7%9B%AE%E5%BD%95/index.html</link>
+    <description>干员档案目录-本舰 [R401熔蜡]&#xA;[R402霜雨]&#xA;[R403艾米尔]&#xA;[R404代达罗斯]From WHX&#xA;[R405特薇利儿]From WHX&#xA;[R406通透]&#xA;[R407兰珏]</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <atom:link href="https://example.com/%E4%BF%A1%E6%81%AF/%E6%9C%AC%E8%88%B0%E7%9B%AE%E5%BD%95/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

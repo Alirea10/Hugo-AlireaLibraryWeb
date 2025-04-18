@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B003 Mon3tr - AlireaLibrary</title>
+    <link>https://example.com/%E6%9C%AA%E8%A7%81%E7%AF%87%E7%AB%A0/b003mon3tr/index.html</link>
+    <description>此档案为2025.4.5日根据Mon3trPV而提前推演的档案，该角色已于2025.4.7日正式实装，因而该档案已被归档。 详情可看：[Mon3tr - PRTS](https://prts.wiki/w/Mon3tr) 实际上该干员的正式编号为R003，而非B003（原来是凯尔希的编号） 而且她比想象的，强好多哦 Mon3tr 分支 分支 描述 链愈师 恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低25% 面板 攻击力 防御力 法抗 生命值 368 116 0 1384 攻速 再部署 费用 阻挡 2.85s 70s 22 1 精二1级</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <atom:link href="https://example.com/%E6%9C%AA%E8%A7%81%E7%AF%87%E7%AB%A0/b003mon3tr/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
