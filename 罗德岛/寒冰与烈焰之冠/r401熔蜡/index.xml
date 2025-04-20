@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R401熔蜡 - AlireaLibrary</title>
-    <link>https://example.com/%E7%BD%97%E5%BE%B7%E5%B2%9B/%E5%AF%92%E5%86%B0%E4%B8%8E%E7%83%88%E7%84%B0%E4%B9%8B%E5%86%A0/r401%E7%86%94%E8%9C%A1/index.html</link>
+    <link>https://alirea.top/%E7%BD%97%E5%BE%B7%E5%B2%9B/%E5%AF%92%E5%86%B0%E4%B8%8E%E7%83%88%E7%84%B0%E4%B9%8B%E5%86%A0/r401%E7%86%94%E8%9C%A1/index.html</link>
     <description>熔蜡 P.Melt 分支 分支 描述 熔岩之心（类术战者） 攻击造成法术伤害，不断损失生命值；与霜羽同时在场时生命值损失速率降低 面板 攻击力 防御力 法抗 生命值 1081 468 20 4068 攻速 再部署 费用 阻挡 1.5s 70s 34 2 精二1级</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <atom:link href="https://example.com/%E7%BD%97%E5%BE%B7%E5%B2%9B/%E5%AF%92%E5%86%B0%E4%B8%8E%E7%83%88%E7%84%B0%E4%B9%8B%E5%86%A0/r401%E7%86%94%E8%9C%A1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alirea.top/%E7%BD%97%E5%BE%B7%E5%B2%9B/%E5%AF%92%E5%86%B0%E4%B8%8E%E7%83%88%E7%84%B0%E4%B9%8B%E5%86%A0/r401%E7%86%94%E8%9C%A1/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

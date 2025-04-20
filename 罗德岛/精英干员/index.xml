@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>精英干员 - AlireaLibrary</title>
-    <link>https://example.com/%E7%BD%97%E5%BE%B7%E5%B2%9B/%E7%B2%BE%E8%8B%B1%E5%B9%B2%E5%91%98/index.html</link>
+    <link>https://alirea.top/%E7%BD%97%E5%BE%B7%E5%B2%9B/%E7%B2%BE%E8%8B%B1%E5%B9%B2%E5%91%98/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <atom:link href="https://example.com/%E7%BD%97%E5%BE%B7%E5%B2%9B/%E7%B2%BE%E8%8B%B1%E5%B9%B2%E5%91%98/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alirea.top/%E7%BD%97%E5%BE%B7%E5%B2%9B/%E7%B2%BE%E8%8B%B1%E5%B9%B2%E5%91%98/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

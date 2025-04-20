@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DRD1烛台 - AlireaLibrary</title>
-    <link>https://example.com/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drd1%E7%83%9B%E5%8F%B0/index.html</link>
+    <link>https://alirea.top/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drd1%E7%83%9B%E5%8F%B0/index.html</link>
     <description>烛台 Candelabra 分支 分支 描述 中坚术师 攻击造成法术伤害 面板 攻击力 防御力 法抗 生命值 556 110 15 1245 攻速 再部署 费用 阻挡 1.6s 70s 21 1 精二1级</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://example.com/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drd1%E7%83%9B%E5%8F%B0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alirea.top/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drd1%E7%83%9B%E5%8F%B0/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

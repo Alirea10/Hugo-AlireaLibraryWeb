@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>集体目录 - AlireaLibrary</title>
-    <link>https://example.com/%E4%BF%A1%E6%81%AF/%E9%9B%86%E4%BD%93%E7%9B%AE%E5%BD%95/index.html</link>
+    <link>https://alirea.top/%E4%BF%A1%E6%81%AF/%E9%9B%86%E4%BD%93%E7%9B%AE%E5%BD%95/index.html</link>
     <description>干员档案目录-所属篇 泰拉地形-Ⅰ [TT01山岳]&#xA;[TT02春木]&#xA;[TT03蓝冰]&#xA;[TT04金石]&#xA;[TT05飞瀑]&#xA;泰拉地形-Ⅱ [TT06可卡]&#xA;[TT07索尔]</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <atom:link href="https://example.com/%E4%BF%A1%E6%81%AF/%E9%9B%86%E4%BD%93%E7%9B%AE%E5%BD%95/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alirea.top/%E4%BF%A1%E6%81%AF/%E9%9B%86%E4%BD%93%E7%9B%AE%E5%BD%95/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
