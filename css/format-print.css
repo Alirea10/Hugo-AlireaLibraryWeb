@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 @import "theme-relearn-light.css?1746805639";
 @import "chroma-relearn-light.css?1746805639";
+=======
+@import "theme-relearn-light.css?1745255989";
+@import "chroma-relearn-light.css?1745255989";
+>>>>>>> d96269c2fdef288862c3b60dee3d7ffd97f3caae
 
 #R-sidebar {
     display: none;
