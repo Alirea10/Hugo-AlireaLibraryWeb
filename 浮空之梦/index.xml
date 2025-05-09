@@ -3,7 +3,7 @@
   <channel>
     <title>浮空之梦 - AlireaLibrary</title>
     <link>https://alirea.top/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/index.html</link>
-    <description>机制 梦境损伤： ID 内部ID 图标 常用/官方名称 损伤名称 元素爆发持续 元素爆发效果（对我方） 元素爆发效果（对敌方） 5 DREAM 谁给我做个图标？ 梦 梦境损伤 10s 获得10s元素免疫，10s沉睡；持续受到150点无来源真实无类型伤害，并使天赋失效 获得20s元素免疫，20s沉睡,沉睡期间受到的伤害提升100%</description>
+    <description>机制 梦境损伤 ID 内部ID 图标 常用/官方名称 损伤名称 元素爆发持续 元素爆发效果（对我方） 元素爆发效果（对敌方） 5 DREAM 谁给我做个图标？ 梦 梦境损伤 10s 获得10s元素免疫，10s沉睡；持续受到150点无来源真实无类型伤害，并使天赋失效 获得20s元素免疫，20s沉睡,沉睡期间受到的伤害提升100% 基建技能 圣娅 维可 莉丝 烛台 抹茶 银叉 梦境碎片 10 10 10 15 20（宿） 0 转换效能 1：1% 1：10%任意 应用基建 宿舍 宿舍 宿舍 任意 办公室 加工 梦境碎片 10 10 10 10 10 10 转换效能 应用基建</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate>Sun, 30 Mar 2025 00:00:00 +0000</lastBuildDate>
@@ -14,6 +14,13 @@
       <pubDate>Wed, 02 Oct 2024 01:52:24 +0800</pubDate>
       <guid>https://alirea.top/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drm1%E5%9C%A3%E5%A8%85/index.html</guid>
       <description>圣娅 Seia 分支 分支 描述 梦游者 攻击造成法术伤害，可以给予我方护盾 面板 攻击力 防御力 法抗 生命值 560 94 0 1660 攻速 再部署 费用 阻挡 3s 70s 18 1 精二1级</description>
+    </item>
+    <item>
+      <title>DRD1烛台</title>
+      <link>https://alirea.top/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drd1%E7%83%9B%E5%8F%B0/index.html</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://alirea.top/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drd1%E7%83%9B%E5%8F%B0/index.html</guid>
+      <description>烛台 Candelabra 分支 分支 描述 中坚术师 攻击造成法术伤害 面板 攻击力 防御力 法抗 生命值 556 110 15 1245 攻速 再部署 费用 阻挡 1.6s 70s 21 1 精二1级</description>
     </item>
     <item>
       <title>DRM2维可</title>
@@ -28,13 +35,6 @@
       <pubDate>Wed, 02 Oct 2024 01:52:24 +0800</pubDate>
       <guid>https://alirea.top/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drm3%E8%8E%89%E4%B8%9D/index.html</guid>
       <description>莉丝 Lith 分支 分支 描述 术战者 攻击造成法术伤害 面板 攻击力 防御力 法抗 生命值 710 299 10 3198 攻速 再部署 费用 阻挡 1.25s 70s 21 1 精二满级</description>
-    </item>
-    <item>
-      <title>DRD1烛台</title>
-      <link>https://alirea.top/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drd1%E7%83%9B%E5%8F%B0/index.html</link>
-      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://alirea.top/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drd1%E7%83%9B%E5%8F%B0/index.html</guid>
-      <description>烛台 Candelabra 分支 分支 描述 中坚术师 攻击造成法术伤害 面板 攻击力 防御力 法抗 生命值 556 110 15 1245 攻速 再部署 费用 阻挡 1.6s 70s 21 1 精二1级</description>
     </item>
     <item>
       <title>DRD2抹茶</title>
