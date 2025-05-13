@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>档案标准模板 :: AlireaLibrary</title>
+    <title>档案模板 - AlireaLibrary</title>
     <link>http://localhost:1313/%E7%BD%97%E5%BE%B7%E5%B2%9B/%E6%A1%A3%E6%A1%88%E6%A8%A1%E6%9D%BF/index.html</link>
-    <description>名字 name 分支 分支 描述 面板 攻击力 防御力 法抗 生命值 攻速 再部署 费用 阻挡 s 70s 精二1级</description>
+    <description>名字 分支 分支 描述 面板 攻击力 防御力 法抗 生命值 攻速 再部署 费用 阻挡 s 70s 精二1级</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/%E7%BD%97%E5%BE%B7%E5%B2%9B/%E6%A1%A3%E6%A1%88%E6%A8%A1%E6%9D%BF/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
