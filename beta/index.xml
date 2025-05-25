@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beta - AlireaLibrary</title>
+    <link>https://alirea.top/beta/index.html</link>
+    <description>此处用来存放未经确认和验证的新想法，可能是技能组，也可能是全新的故事。</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <atom:link href="https://alirea.top/beta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DRD4——</title>
+      <link>https://alirea.top/beta/drd4/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alirea.top/beta/drd4/index.html</guid>
+      <description>名字 分支 分支 描述 镜中人 拥有两种形态 面板 攻击力 防御力 法抗 生命值 450 321 0 2464 攻速 再部署 费用 阻挡 1.2s 140s 22 2 精二满级</description>
+    </item>
+  </channel>
+</rss>
