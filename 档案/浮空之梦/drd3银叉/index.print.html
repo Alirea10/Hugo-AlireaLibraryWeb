@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html lang="cn" dir="ltr" itemscope itemtype="http://schema.org/Article" data-r-output-format="print">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.147.5">
+    <meta name="generator" content="Relearn 7.6.1+0b83617ee9da5253aafcf11807b256da7d88d709">
+    <meta name="description" content="银叉	Fork 分支 分支 描述 术战者 攻击造成法术伤害 面板 攻击力 防御力 法抗 生命值 560 321 15 2280 攻速 再部署 费用 阻挡 1.25s 70s 21 1 精二1级
+潜能2 潜能3 潜能4 潜能5 潜能6 部署费用-1 再部署时间-4秒 生命上限&#43;160 第一天赋效果增强 部署费用-1 天赋 天赋一 梦境蓄势 精零 不攻击时，每秒提升1%攻击力，最多提升至150%（&#43;10%），以此法提升的攻击力大于75%时，攻击距离&#43;1。以此法提升的攻击力大于等于150%时，攻击附带攻击力8%的梦境损伤。
+天赋二 敏锐视觉 精二 攻击无视敌人40%的法术闪避
+技能 技能一 “流星” 自回自动 0/8 4/8 4/7 4/6 向前发射【寂夜终焉】，对沿途敌人造成130%（150，170，200）的法术伤害并向后中等力度推动；爆炸对周围造成130%（150，170，200）的法术伤害（从低地撞到高台直接爆炸且造成130%的法术伤害）。
+技能二 “守望” 自回自动 0/80 0/75 0/70 0/60 持续时间无限 攻击范围改为前方无限长的直线，攻击速度较大幅提升，攻击力&#43;60%（70，80，90），防御力变为0，攻击可以穿过至多3（3，3，4）名敌方，穿过的敌方单位停顿1.6秒（1.8，2.0，2.4），最后一名敌方单位额外受到相当于停顿时长三倍的眩晕，停顿或眩晕期间防御力和法抗降低8%
+技能三 “锚定” 自回手动 35/58 36/55 38/53 40/50 攻击装有8（9，10，11）发弹药，打完后结束（可随时停止技能） 攻击范围缩短，立刻标记整个战场内生命值最高的一名目标（优先标记精英敌人/boss），攻击间隔超大幅增大，仅攻击此目标，造成一次相当于攻击力450%的法术伤害，有40%的概率使其进入沉睡，沉睡状态下，每次受到伤害会使其法术抗性降低10，技能结束时重置。">
+    <meta name="author" content="Alirea">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="DRD3银叉 :: AlireaLibrary">
+    <meta name="twitter:description" content="银叉	Fork 分支 分支 描述 术战者 攻击造成法术伤害 面板 攻击力 防御力 法抗 生命值 560 321 15 2280 攻速 再部署 费用 阻挡 1.25s 70s 21 1 精二1级
+潜能2 潜能3 潜能4 潜能5 潜能6 部署费用-1 再部署时间-4秒 生命上限&#43;160 第一天赋效果增强 部署费用-1 天赋 天赋一 梦境蓄势 精零 不攻击时，每秒提升1%攻击力，最多提升至150%（&#43;10%），以此法提升的攻击力大于75%时，攻击距离&#43;1。以此法提升的攻击力大于等于150%时，攻击附带攻击力8%的梦境损伤。
+天赋二 敏锐视觉 精二 攻击无视敌人40%的法术闪避
+技能 技能一 “流星” 自回自动 0/8 4/8 4/7 4/6 向前发射【寂夜终焉】，对沿途敌人造成130%（150，170，200）的法术伤害并向后中等力度推动；爆炸对周围造成130%（150，170，200）的法术伤害（从低地撞到高台直接爆炸且造成130%的法术伤害）。
+技能二 “守望” 自回自动 0/80 0/75 0/70 0/60 持续时间无限 攻击范围改为前方无限长的直线，攻击速度较大幅提升，攻击力&#43;60%（70，80，90），防御力变为0，攻击可以穿过至多3（3，3，4）名敌方，穿过的敌方单位停顿1.6秒（1.8，2.0，2.4），最后一名敌方单位额外受到相当于停顿时长三倍的眩晕，停顿或眩晕期间防御力和法抗降低8%
+技能三 “锚定” 自回手动 35/58 36/55 38/53 40/50 攻击装有8（9，10，11）发弹药，打完后结束（可随时停止技能） 攻击范围缩短，立刻标记整个战场内生命值最高的一名目标（优先标记精英敌人/boss），攻击间隔超大幅增大，仅攻击此目标，造成一次相当于攻击力450%的法术伤害，有40%的概率使其进入沉睡，沉睡状态下，每次受到伤害会使其法术抗性降低10，技能结束时重置。">
+    <meta property="og:url" content="https://alirea.top/%E6%A1%A3%E6%A1%88/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drd3%E9%93%B6%E5%8F%89/index.html">
+    <meta property="og:site_name" content="AlireaLibrary">
+    <meta property="og:title" content="DRD3银叉 :: AlireaLibrary">
+    <meta property="og:description" content="银叉	Fork 分支 分支 描述 术战者 攻击造成法术伤害 面板 攻击力 防御力 法抗 生命值 560 321 15 2280 攻速 再部署 费用 阻挡 1.25s 70s 21 1 精二1级
+潜能2 潜能3 潜能4 潜能5 潜能6 部署费用-1 再部署时间-4秒 生命上限&#43;160 第一天赋效果增强 部署费用-1 天赋 天赋一 梦境蓄势 精零 不攻击时，每秒提升1%攻击力，最多提升至150%（&#43;10%），以此法提升的攻击力大于75%时，攻击距离&#43;1。以此法提升的攻击力大于等于150%时，攻击附带攻击力8%的梦境损伤。
+天赋二 敏锐视觉 精二 攻击无视敌人40%的法术闪避
+技能 技能一 “流星” 自回自动 0/8 4/8 4/7 4/6 向前发射【寂夜终焉】，对沿途敌人造成130%（150，170，200）的法术伤害并向后中等力度推动；爆炸对周围造成130%（150，170，200）的法术伤害（从低地撞到高台直接爆炸且造成130%的法术伤害）。
+技能二 “守望” 自回自动 0/80 0/75 0/70 0/60 持续时间无限 攻击范围改为前方无限长的直线，攻击速度较大幅提升，攻击力&#43;60%（70，80，90），防御力变为0，攻击可以穿过至多3（3，3，4）名敌方，穿过的敌方单位停顿1.6秒（1.8，2.0，2.4），最后一名敌方单位额外受到相当于停顿时长三倍的眩晕，停顿或眩晕期间防御力和法抗降低8%
+技能三 “锚定” 自回手动 35/58 36/55 38/53 40/50 攻击装有8（9，10，11）发弹药，打完后结束（可随时停止技能） 攻击范围缩短，立刻标记整个战场内生命值最高的一名目标（优先标记精英敌人/boss），攻击间隔超大幅增大，仅攻击此目标，造成一次相当于攻击力450%的法术伤害，有40%的概率使其进入沉睡，沉睡状态下，每次受到伤害会使其法术抗性降低10，技能结束时重置。">
+    <meta property="og:locale" content="cn">
+    <meta property="og:type" content="article">
+    <meta property="article:section" content="档案">
+    <meta property="article:published_time" content="2025-03-30T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-03-30T00:00:00+00:00">
+    <meta itemprop="name" content="DRD3银叉 :: AlireaLibrary">
+    <meta itemprop="description" content="银叉	Fork 分支 分支 描述 术战者 攻击造成法术伤害 面板 攻击力 防御力 法抗 生命值 560 321 15 2280 攻速 再部署 费用 阻挡 1.25s 70s 21 1 精二1级
+潜能2 潜能3 潜能4 潜能5 潜能6 部署费用-1 再部署时间-4秒 生命上限&#43;160 第一天赋效果增强 部署费用-1 天赋 天赋一 梦境蓄势 精零 不攻击时，每秒提升1%攻击力，最多提升至150%（&#43;10%），以此法提升的攻击力大于75%时，攻击距离&#43;1。以此法提升的攻击力大于等于150%时，攻击附带攻击力8%的梦境损伤。
+天赋二 敏锐视觉 精二 攻击无视敌人40%的法术闪避
+技能 技能一 “流星” 自回自动 0/8 4/8 4/7 4/6 向前发射【寂夜终焉】，对沿途敌人造成130%（150，170，200）的法术伤害并向后中等力度推动；爆炸对周围造成130%（150，170，200）的法术伤害（从低地撞到高台直接爆炸且造成130%的法术伤害）。
+技能二 “守望” 自回自动 0/80 0/75 0/70 0/60 持续时间无限 攻击范围改为前方无限长的直线，攻击速度较大幅提升，攻击力&#43;60%（70，80，90），防御力变为0，攻击可以穿过至多3（3，3，4）名敌方，穿过的敌方单位停顿1.6秒（1.8，2.0，2.4），最后一名敌方单位额外受到相当于停顿时长三倍的眩晕，停顿或眩晕期间防御力和法抗降低8%
+技能三 “锚定” 自回手动 35/58 36/55 38/53 40/50 攻击装有8（9，10，11）发弹药，打完后结束（可随时停止技能） 攻击范围缩短，立刻标记整个战场内生命值最高的一名目标（优先标记精英敌人/boss），攻击间隔超大幅增大，仅攻击此目标，造成一次相当于攻击力450%的法术伤害，有40%的概率使其进入沉睡，沉睡状态下，每次受到伤害会使其法术抗性降低10，技能结束时重置。">
+    <meta itemprop="datePublished" content="2025-03-30T00:00:00+00:00">
+    <meta itemprop="dateModified" content="2025-03-30T00:00:00+00:00">
+    <meta itemprop="wordCount" content="193">
+    <title>DRD3银叉 :: AlireaLibrary</title>
+    <link href="https://alirea.top/%E6%A1%A3%E6%A1%88/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drd3%E9%93%B6%E5%8F%89/index.html" rel="canonical" type="text/html" title="DRD3银叉 :: AlireaLibrary">
+    <link href="/%E6%A1%A3%E6%A1%88/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drd3%E9%93%B6%E5%8F%89/index.xml" rel="alternate" type="application/rss+xml" title="DRD3银叉 :: AlireaLibrary">
+    <link href="/images/logo.svg?1748417960" rel="icon" type="image/svg+xml">
+    <link href="/fonts/fontawesome/css/fontawesome-all.min.css?1748417960" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/fonts/fontawesome/css/fontawesome-all.min.css?1748417960" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar/perfect-scrollbar.min.css?1748417960" rel="stylesheet">
+    <link href="/css/theme.min.css?1748417960" rel="stylesheet">
+    <link href="/css/format-print.min.css?1748417960" rel="stylesheet" id="R-format-style">
+    <link href="/css/auto-complete/auto-complete.min.css?1748417960" rel="stylesheet">
+    <script src="/js/auto-complete/auto-complete.min.js?1748417960" defer></script>
+    <script src="/js/lunr/lunr.min.js?1748417960" defer></script>
+    <script src="/js/lunr/lunr.stemmer.support.min.js?1748417960" defer></script>
+    <script src="/js/lunr/lunr.multi.min.js?1748417960" defer></script>
+    <script src="/js/search.min.js?1748417960" defer></script>
+    <script>
+      window.relearn = window.relearn || {};
+      // configuration
+      window.relearn.min = `.min`;
+      window.relearn.path='\/%E6%A1%A3%E6%A1%88\/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6\/drd3%E9%93%B6%E5%8F%89\/index.html';
+      window.relearn.relBasePath='..\/..\/..';
+      window.relearn.relBaseUri='..\/..\/..';
+      window.relearn.absBaseUri='https:\/\/alirea.top';
+      window.relearn.contentLangs=[];
+      window.relearn.index_js_url="/searchindex.cn.js?1748417960";
+      window.relearn.disableAnchorCopy=false;
+      window.relearn.disableAnchorScrolling=false;
+      window.relearn.disableInlineCopyToClipboard=false;
+      window.relearn.enableBlockCodeWrap=true;
+      // legal
+      window.relearn.getItem = (s,n) => {return s.getItem(n)};
+      window.relearn.setItem = (s,n,v) => {return s.setItem(n,v)};
+      window.relearn.removeItem = (s,n) => {return s.removeItem(n)};
+      // variant stuff
+      window.relearn.themevariants = [ 'auto', 'neon', 'learn', 'zen-dark' ];
+      window.relearn.customvariantname = "my-custom-variant";
+      window.relearn.changeVariant = function(variant) {
+        var oldVariant = document.documentElement.dataset.rThemeVariant;
+        window.relearn.setItem(window.localStorage, window.relearn.absBaseUri + "/variant", variant);
+        document.documentElement.dataset.rThemeVariant = variant;
+        if (oldVariant != variant) {
+          document.dispatchEvent( new CustomEvent('themeVariantLoaded', { detail: { variant, oldVariant } }) );
+          window.relearn.markVariant();
+        }
+      }
+      window.relearn.markVariant = function() {
+        var variant = window.relearn.getItem(window.localStorage, window.relearn.absBaseUri + "/variant");
+        document.querySelectorAll(".R-variantswitcher select").forEach((select) => {select.value = variant;});
+      }
+      window.relearn.initVariant = function() {
+        var variant = window.relearn.getItem(window.localStorage, window.relearn.absBaseUri + "/variant") ?? "";
+        if( variant == window.relearn.customvariantname ){
+        }else if( !variant || !window.relearn.themevariants.includes(variant) ){
+          variant = window.relearn.themevariants[0];
+          window.relearn.setItem(window.localStorage, window.relearn.absBaseUri + "/variant", variant);
+        }
+        document.documentElement.dataset.rThemeVariant = variant;
+      }
+      window.relearn.initVariant();
+      window.relearn.markVariant();
+      // translations
+      window.T_Copy_to_clipboard = ``;
+      window.T_Copied_to_clipboard = ``;
+      window.T_Copy_link_to_clipboard = ``;
+      window.T_Link_copied_to_clipboard = ``;
+      window.T_Reset_view = ``;
+      window.T_View_reset = ``;
+      window.T_No_results_found = ``;
+      window.T_N_results_found = ``;
+    </script>
+    <style>
+       
+      #R-body svg.purple,
+      #R-body svg.purple :not([fill]),
+      #R-body svg.purple :not([fill='black']),
+      #R-body svg.purple :not([fill='#000000']) {
+        fill: var(--INTERNAL-PRIMARY-color) !important;
+      }
+
+       
+      #R-logo {
+        font-size: 1.4rem;
+        margin-bottom: -.8125rem;
+        margin-top: -.8125rem;
+        max-width: 100%;
+        width: 14.125rem;
+      }
+      @media only all and (max-width: 59.999rem) {
+        #R-logo {
+          font-size: 1rem;
+          margin-bottom: -.25rem;
+          margin-top: -.25rem;
+        }
+      }
+      #R-logo svg {
+        display: inline-block;
+        opacity: .945;
+        vertical-align: middle;
+        width: 26% !important;
+      }
+      @media only all and (max-width: 59.999rem) {
+        #R-logo svg {
+          width: 24.5% !important;
+        }
+      }
+      #R-logo svg * {
+        opacity: .945;
+      }
+      #R-logo .logo-title{
+        display: inline-block;
+        overflow-wrap: break-word;
+        text-align: left;
+        text-wrap: wrap;
+        vertical-align: middle;
+        width: 4.5em;
+      }
+    </style>
+  </head>
+  <body class="mobile-support print" data-url="/%E6%A1%A3%E6%A1%88/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drd3%E9%93%B6%E5%8F%89/index.html">
+    <div id="R-body" class="default-animation">
+      <div id="R-body-overlay"></div>
+      <nav id="R-topbar">
+        <div class="topbar-wrapper">
+          <div class="topbar-sidebar-divider"></div>
+          <div class="topbar-area topbar-area-start" data-area="start">
+            <div class="topbar-button topbar-button-sidebar" data-content-empty="disable" data-width-s="show" data-width-m="hide" data-width-l="hide"><button class="topbar-control" onclick="toggleNav()" type="button" title="(CTRL&#43;ALT&#43;n)"><i class="fa-fw fas fa-bars"></i></button>
+            </div>
+            <div class="topbar-button topbar-button-toc" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show"><button class="topbar-control" onclick="toggleTopbarFlyout(this)" type="button" title="(CTRL&#43;ALT&#43;t)"><i class="fa-fw fas fa-list-alt"></i></button>
+              <div class="topbar-content">
+                <div class="topbar-content-wrapper">
+<nav class="TableOfContents">
+  <ul>
+    <li><a href="#分支">分支</a></li>
+    <li><a href="#面板">面板</a></li>
+    <li><a href="#天赋">天赋</a>
+      <ul>
+        <li><a href="#天赋一">天赋一</a></li>
+        <li><a href="#天赋二">天赋二</a></li>
+      </ul>
+    </li>
+    <li><a href="#技能">技能</a>
+      <ul>
+        <li><a href="#技能一">技能一</a></li>
+        <li><a href="#技能二">技能二</a></li>
+        <li><a href="#技能三">技能三</a></li>
+        <li><a href="#后勤技能">后勤技能</a></li>
+      </ul>
+    </li>
+    <li><a href="#干员档案">干员档案</a></li>
+    <li><a href="#信物">信物</a></li>
+    <li><a href="#模组">模组</a>
+      <ul>
+        <li><a href="#斩断长夜之枪aft-x">斩断长夜之枪	<strong>AFT-X</strong></a></li>
+      </ul>
+    </li>
+    <li><a href="#语音">语音</a></li>
+    <li><a href="#版本信息">版本信息</a></li>
+  </ul>
+</nav> 
+                </div>
+              </div>
+            </div>
+          </div>
+          <ol class="topbar-breadcrumbs breadcrumbs highlightable" itemscope itemtype="http://schema.org/BreadcrumbList">
+            <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/index.html"><span itemprop="name">AlireaLibrary</span></a><meta itemprop="position" content="1">&nbsp;>&nbsp;</li>
+            <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/%E6%A1%A3%E6%A1%88/index.html"><span itemprop="name">档案</span></a><meta itemprop="position" content="2">&nbsp;>&nbsp;</li>
+            <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/%E6%A1%A3%E6%A1%88/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/index.html"><span itemprop="name">浮空之梦</span></a><meta itemprop="position" content="3">&nbsp;>&nbsp;</li>
+            <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><span itemprop="name">DRD3银叉</span><meta itemprop="position" content="4"></li>
+          </ol>
+          <div class="topbar-area topbar-area-end" data-area="end">
+            <div class="topbar-button topbar-button-print" data-content-empty="disable" data-width-s="area-more" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/%E6%A1%A3%E6%A1%88/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drd3%E9%93%B6%E5%8F%89/index.print.html" title="(CTRL+ALT+p)"><i class="fa-fw fas fa-print"></i></a>
+            </div>
+            <div class="topbar-button topbar-button-prev" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/%E6%A1%A3%E6%A1%88/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drd2%E6%8A%B9%E8%8C%B6/index.html" title="DRD2抹茶 (🡐)"><i class="fa-fw fas fa-chevron-left"></i></a>
+            </div>
+            <div class="topbar-button topbar-button-next" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/%E6%A1%A3%E6%A1%88/%E6%B5%AE%E7%A9%BA%E4%B9%8B%E6%A2%A6/drd5%E9%9B%AA%E8%A7%81%E6%9C%88%E9%93%83/index.html" title="DRD5雪见&月铃 (🡒)"><i class="fa-fw fas fa-chevron-right"></i></a>
+            </div>
+            <div class="topbar-button topbar-button-more" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show"><button class="topbar-control" onclick="toggleTopbarFlyout(this)" type="button" title=""><i class="fa-fw fas fa-ellipsis-v"></i></button>
+              <div class="topbar-content">
+                <div class="topbar-content-wrapper">
+                  <div class="topbar-area topbar-area-more" data-area="more">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div id="R-main-overlay"></div>
+      <main id="R-body-inner" class="highlightable 档案" tabindex="-1">
+        <div class="flex-block-wrapper">
+<article class="default">
+  <header class="headline">
+  </header>
+
+<h1 id="drd3银叉">DRD3银叉</h1>
+
+<h1 id="银叉fork">银叉	Fork</h1>
+<h2 id="分支">分支</h2>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: center">分支</th>
+          <th style="text-align: center">描述</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center">术战者</td>
+          <td style="text-align: center">攻击造成法术伤害</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="面板">面板</h2>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: center">攻击力</th>
+          <th style="text-align: center">防御力</th>
+          <th style="text-align: center">法抗</th>
+          <th style="text-align: center">生命值</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center">560</td>
+          <td style="text-align: center">321</td>
+          <td style="text-align: center">15</td>
+          <td style="text-align: center">2280</td>
+      </tr>
+      <tr>
+          <td style="text-align: center">攻速</td>
+          <td style="text-align: center">再部署</td>
+          <td style="text-align: center">费用</td>
+          <td style="text-align: center">阻挡</td>
+      </tr>
+      <tr>
+          <td style="text-align: center">1.25s</td>
+          <td style="text-align: center">70s</td>
+          <td style="text-align: center">21</td>
+          <td style="text-align: center">1</td>
+      </tr>
+  </tbody>
+</table>
+<p><em>精二1级</em></p>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: center">潜能2</th>
+          <th style="text-align: center">潜能3</th>
+          <th style="text-align: center">潜能4</th>
+          <th style="text-align: center">潜能5</th>
+          <th style="text-align: center">潜能6</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center">部署费用-1</td>
+          <td style="text-align: center">再部署时间-4秒</td>
+          <td style="text-align: center">生命上限+160</td>
+          <td style="text-align: center">第一天赋效果增强</td>
+          <td style="text-align: center">部署费用-1</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="天赋">天赋</h2>
+<h3 id="天赋一">天赋一</h3>
+<table>
+  <thead>
+      <tr>
+          <th>梦境蓄势</th>
+          <th>精零</th>
+      </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+<p>不攻击时，每秒提升1%攻击力，最多提升至150%（+10%），以此法提升的攻击力大于75%时，攻击距离+1。以此法提升的攻击力大于等于150%时，攻击附带攻击力8%的梦境损伤。</p>
+<h3 id="天赋二">天赋二</h3>
+<table>
+  <thead>
+      <tr>
+          <th>敏锐视觉</th>
+          <th>精二</th>
+      </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+<p>攻击无视敌人40%的法术闪避</p>
+<h2 id="技能">技能</h2>
+<h3 id="技能一">技能一</h3>
+<table>
+  <thead>
+      <tr>
+          <th>“流星”</th>
+          <th>自回自动</th>
+      </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+<table>
+  <thead>
+      <tr>
+          <th>0/8</th>
+          <th>4/8</th>
+          <th>4/7</th>
+          <th>4/6</th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+<p>向前发射【寂夜终焉】，对沿途敌人造成130%（150，170，200）的法术伤害并向后中等力度推动；爆炸对周围造成130%（150，170，200）的法术伤害（从低地撞到高台直接爆炸且造成130%的法术伤害）。</p>
+<h3 id="技能二">技能二</h3>
+<table>
+  <thead>
+      <tr>
+          <th>&ldquo;守望&rdquo;</th>
+          <th>自回自动</th>
+      </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+<table>
+  <thead>
+      <tr>
+          <th>0/80</th>
+          <th>0/75</th>
+          <th>0/70</th>
+          <th>0/60</th>
+          <th>持续时间无限</th>
+      </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+<p>攻击范围改为前方无限长的直线，攻击速度较大幅提升，攻击力+60%（70，80，90），防御力变为0，攻击可以穿过至多3（3，3，4）名敌方，穿过的敌方单位停顿1.6秒（1.8，2.0，2.4），最后一名敌方单位额外受到相当于停顿时长三倍的眩晕，停顿或眩晕期间防御力和法抗降低8%</p>
+<h3 id="技能三">技能三</h3>
+<table>
+  <thead>
+      <tr>
+          <th>“锚定”</th>
+          <th>自回手动</th>
+      </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+<table>
+  <thead>
+      <tr>
+          <th>35/58</th>
+          <th>36/55</th>
+          <th>38/53</th>
+          <th>40/50</th>
+          <th>攻击装有8（9，10，11）发弹药，打完后结束（可随时停止技能）</th>
+      </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+<p>攻击范围缩短，立刻标记整个战场内生命值最高的一名目标（优先标记精英敌人/boss），攻击间隔超大幅增大，仅攻击此目标，造成一次相当于攻击力450%的法术伤害，有40%的概率使其进入沉睡，沉睡状态下，每次受到伤害会使其法术抗性降低10，技能结束时重置。</p>
+<p><strong>当干员处于因“彩梦邀约”造成的睡眠时</strong>，仍然可以进行攻击，如果目标也处于“彩梦邀约”造成的睡眠，使其法术抗性额外降低15</p>
+<h3 id="后勤技能">后勤技能</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: center">条件</th>
+          <th style="text-align: center">技能</th>
+          <th style="text-align: center">房间</th>
+          <th style="text-align: center">描述</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center">精0</td>
+          <td style="text-align: center"><strong>渐入梦境</strong></td>
+          <td style="text-align: center">加工站</td>
+          <td style="text-align: center">进驻加工站加工任意类材料时，每1点<u>梦境碎片</u>使副产品的产出概率提升1%</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="干员档案">干员档案</h2>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">基础档案</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">【代号】银叉 <br />【性别】女 <br />【战斗经验】2年<br />【出身地】未公开<br />【生日】 1月6日<br />【种族】 沃尔珀<br />【身高】135cm <br />【矿石病感染情况】 参照医学检测报告，确认为感染者。</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">综合体检测试</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">【物理强度】优良 <br />【战场机动】标准 <br />【生理耐受】标准 <br />【战术规划】优良 <br />【战斗技巧】优良 <br />【源石技艺适应性】——</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">客观履历</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">银叉，沃德沃姆【第一边界】的【守护者】，从属于圣娅，曾是第一边界的主要观察者，类似于天灾信使，需要预知沃德沃姆中灾厄的幼苗。使用一把长枪【寂夜终焉】，能在晚上发出光芒，投掷后可以在空中划出光线在早晨也清晰可见，根据其本人的意愿，作为见习天灾信使活动。</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">临床诊断分析</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">【体细胞与源石融合率】4%<br />干员银叉手腕可见少量源石结晶。<br />“无论如何，它不会影响你投掷的速度”<br />【血液源石结晶密度】0.13u/L <br />血液源石结晶密度相对稳定，未见上升迹象，鉴于其未直接接触源石却感染的特殊感染的复杂状态，且其发病机理尚未明确，应当多加关注。<br /><br />关于其产生的幻痛和幻觉，亦有可能是由于矿石病造成的并发现象，如其自述疼痛，可按需给予矿石病抑制药物和止疼药物。|<br />补充：其自述常规止疼和抑制药物无法缓解疼痛，经过观察，其矿石病稳定期间也会诱发相关疼痛，可能并非矿石病诱发的疼痛</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">档案资料一</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">天灾信使是泰拉大地上负责观测、预警天灾的专业人员，其职责包括巡回荒野，监测环境异变，预测天灾动向，并向移动城市及定居点提供关键预警信息。<br />天灾的预测需要信使需携带检测仪器、通信设备及厚重的观测笔记，记录源石浓度、地质变动及气象变化，交叉比对数据以判断天灾风险。部分信使受雇于政府或企业（如哥伦比亚的科技公司），而落后地区则仍依赖传统经验，就银叉在沃德沃姆来说，她更偏向后者，她经常需要远离沃德沃姆居住域，去到第一边界以外更远的敌方，提前预测和分析梦秽可能出现的方向。<br />直面天灾，负重前行，为远方的人们带去危险而重要的情报，是每一个“天灾信使”铭牌沉重的分量。<br />曾经，她的身后有无数人需要她，所以她无所畏惧的奔跑于荒野之上，所以她不遗余力的工作在危险之中，所以她坚定不移的直面天灾之下。<br />“干员银叉申请成为罗德岛天灾信使团队的一员，这是我的申请书，希望你能够过目。”</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">档案资料二</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">“喂，你听说了吗，那几个从沃德沃姆的小东西们，好像有一个要来我们队实习”<br />“那很不错啦，你们几个无话不说天天出外勤，能有一个新人陪着你们一起在荒野走着聊天也是一件好事啊”<br />“又拿我寻开心，你就天天在本舰分析数据，哪有我们几个这么压抑！”<br />“哎哎哎我错了还不行吗，这是她的档案，从今往后她就在你这实习了，别揪我耳朵！”<br />&hellip;<br />“她的枪会发光哦？据说她不是源石驱动的”<br />“这多省事，以后晚上不用起火了”<br />“闹呢，晚上冷死你”<br />“嘘嘘嘘！小点声，这家伙好不容易才睡着，待会她又逞强观测一晚上你来哄吗！”<br />“哎行行行”<br />“她一点风吹草动都能察觉到，现在她是真的累了”<br />“听说她以前每天都要过这样的生活，我们好歹有轮班有假期，而我们好歹有时间在这忙里偷闲”<br />“所以我们更没理由不如这小家伙了，赶紧睡了吧”</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">档案资料三</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">“她，现在还在舰外执行任务吧”<br />“嗯，我支持她这么做，这是她曾经神圣职责在泰拉大地的投影，她能在这里继续她的职责，我由衷的为她感到高兴”<br />“只不过，这里终究不再是沃德沃姆，我们的身体素质与能力都大不如前，已经不是她离开多久，多远，都一定能在夜晚前回到大家身边的沃德沃姆了”<br />“不过我还是没想到，离开沃德沃姆后，茶会会因此产生空席&hellip;&hellip;也许吧，这不是一件坏事，我们终要习惯缺席的茶会了”<br />“呼，就用这杯茶来保佑离开家乡的【守护者】们吧，愿我等能在这片大地上重新找到自己的意义”<br />“守望大地，对抗天灾，她能重拾沃德沃姆的碎片，这样的机会，对绝大多数的【守梦人】来说，恐怕都是此生难再的奢望了”</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">档案资料四</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">权限档案<br />她似乎在离开沃德沃姆之后就产生了一些幻痛和幻觉的问题，关于这件事我咨询了她们，她们对此并没有太多头绪，莉丝认为，这可能是离开了沃德沃姆失去调整自己梦境的能力的征兆。<br />从病理上看，银叉的矿石病并没有对其大脑产生太大影响，至少仪器观测的到的水平下，我们大概率可以认为不是矿石病引起的，也不太像其他已知疾病引起的。<br />抛开医学理论不谈，她们提出一个观点：沃德沃姆的她们会被梦秽侵蚀，为了消除梦秽的影响，她们都需要进行梦境的清除，她似乎在离开沃德沃姆之前存在侵蚀，本来她可以通过睡眠在梦中清除自己的侵蚀，但是她失去了这样的能力。<br />这在12名【守梦人】与【守护者】之间是仅此一例的，她们都从侧面证明了这一说法的可能性，但是她本人没有提及自己无法消除侵蚀这件事，可能她说了我们也不懂。</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">晋升记录</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">“晋升，就是对我工作的认可吧。”<br/>守梦人自苏醒记忆的那一刻起，便义无反顾地履行着职责。没有人质疑，也没有人拒绝。仿佛这一切本就理所当然——沃德沃姆的存在，即是守梦人与守护者们的存在；沃德沃姆的存续，便是守梦人与守护者们微小而恒久的牺牲。<br/>或许，提卡尔利用了年幼的我们，抹去了过往的记忆，甚至利用了我们的……天真？呵，如今他消失得无踪，而我们或许永远失去了质问他的机会。<br/>现在，我们在这里得到认可。在沃德沃姆，这本是微不足道的小事，可如今，却在这片陌生的土地上被赋予了新的意义。<br/>“但这真的重要吗？”<br/>我们早已习惯了默默无闻，习惯了沉默地守望。可当有人真正看见我们的付出，甚至愿意给予嘉奖时——<br/>“也许我也会产生一丝动摇哦？”</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="信物">信物</h2>
+<p>不尖锐的长枪挂饰，可以挂在手上，也可以戴在脖子上</p>
+<h2 id="模组">模组</h2>
+<h3 id="斩断长夜之枪aft-x">斩断长夜之枪	<strong>AFT-X</strong></h3>
+<table>
+  <thead>
+      <tr>
+          <th>等级</th>
+          <th>数值</th>
+          <th style="text-align: center">效果</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><br />1</td>
+          <td>攻击 +30<br />法术抗性 +5</td>
+          <td style="text-align: center"><strong>特性追加：</strong><br />未阻挡敌人时攻击速度+8</td>
+      </tr>
+      <tr>
+          <td><br />2</td>
+          <td>攻击 +48<br />法术抗性 +5</td>
+          <td style="text-align: center">天赋【敏锐视觉】更新<br/>攻击无视敌人**60%**的法术闪避，<strong>且使敌人失去特殊能力1秒</strong></td>
+      </tr>
+      <tr>
+          <td><br />3</td>
+          <td>攻击 +60<br />法术抗性 +5</td>
+          <td style="text-align: center">天赋【敏锐视觉】更新<br/>攻击无视敌人**80%**的法术闪避，<strong>且使敌人失去特殊能力3秒</strong></td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="语音">语音</h2>
+<table>
+  <thead>
+      <tr>
+          <th><strong>干员报到</strong></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>晋升后交谈1</strong></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td><strong>晋升后交谈2</strong></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td><strong>行动失败</strong></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td><strong>非3星结束行动</strong></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td><strong>3星结束行动</strong></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td><strong>完成高难行动</strong></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td><strong>闲置</strong></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td><strong>交谈1</strong></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td><strong>交谈2</strong></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td><strong>交谈3</strong></td>
+          <td></td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="版本信息">版本信息</h2>
+<p>第一版：ARKNIGHT-V 2023.1.6</p>
+<p>第二版：ARKNIGHT-V 2025.4.22</p>
+<p>第三版：ARKNIGHT-</p>
+<p>参考干员：灰烬，远牙，维什戴尔，提丰</p>
+<p>模板更新：2025/3/30</p>
+
+  <footer class="footline">
+              <i class='fa-fw fas fa-calendar'></i> Mar 30, 2025
+  </footer>
+</article>
+        </div>
+      </main>
+    </div>
+    <script src="/js/clipboard/clipboard.min.js?1748417960" defer></script>
+    <script src="/js/perfect-scrollbar/perfect-scrollbar.min.js?1748417960" defer></script>
+    <script src="/js/theme.min.js?1748417960" defer></script>
+  </body>
+</html>
