@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>info :: AlireaLibrary</title>
+    <title>其他信息 :: AlireaLibrary</title>
     <link>https://alirea.top/%E4%BF%A1%E6%81%AF/index.html</link>
     <description>这是一个存东西的地方：）</description>
     <generator>Hugo</generator>
-    <language>cn</language>
+    <language>zh-CN</language>
     <atom:link href="https://alirea.top/%E4%BF%A1%E6%81%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Commit规范</title>
@@ -15,13 +15,6 @@
       <description>看着很乱的git分支，是时候规定一些规范了。&#xA;md：对干员档案进行添加、扩充、修改，包括权重、title等元数据的修改。&#xA;template：对干员模板的修改。&#xA;hugo：对Hugo、git设置和任何静态网页的修改。&#xA;index：对_index.md文件的修改，通常涉及主页，章节文件夹和新机制。&#xA;content：对目干员目录的修改。&#xA;auto：由机器人或自动脚本提交的内容。&#xA;log：对日志进行添加、扩充、修改。&#xA;info：所有信息文件夹下的内容，除了上述特殊规定的，均由此前缀提交&#xA;beta：所有beta文件夹下的创意均由此前缀提交&#xA;……：其他事项，可不写前缀，但除极特殊情况，不应该出现这种情况</description>
     </item>
     <item>
-      <title>本舰目录</title>
-      <link>https://alirea.top/%E4%BF%A1%E6%81%AF/%E6%9C%AC%E8%88%B0%E7%9B%AE%E5%BD%95/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alirea.top/%E4%BF%A1%E6%81%AF/%E6%9C%AC%E8%88%B0%E7%9B%AE%E5%BD%95/index.html</guid>
-      <description>干员档案目录-本舰 干员档案 R401熔蜡 R402凝羽 [R403艾米尔] [R404代达罗斯] [R405特薇利儿] [R406通透] [R407兰珏] [R408火光] [R409弥留] [R410离别] [R411随意] [R412磁] [R413黑天] [R414吟] [R415潮涌] [IU07铁律嘉维尔] [PA41剑舞玫兰莎] [RR02埃琳娜] [LT07吉普利尔] [R416帕拉尼] [R417沐星] [SR04安娜·利普斯] [VC06荧光] [VC91查理] [SR20艾基尔] [VC92史尔曼] [VC93坚城] [？？？？风斩·冰华] [R418新生] [R419娴兰] [R421爱尔吉娜] [R422乌影] [R423零] [R424加百列] Re01缇雅 R426渡鸦</description>
-    </item>
-    <item>
       <title>档案模板</title>
       <link>https://alirea.top/%E4%BF%A1%E6%81%AF/%E6%A1%A3%E6%A1%88%E6%A8%A1%E6%9D%BF/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -29,11 +22,11 @@
       <description>名字 分支 分支 描述 面板 攻击力 防御力 法抗 生命值 攻速 再部署 费用 阻挡 s 70s 精二1级&#xA;信赖 潜能2 潜能3 潜能4 潜能5 潜能6 部署费用-1 再部署时间-4秒 生命上限+160 第一天赋效果增强 部署费用-1 天赋 天赋一 精 123&#xA;天赋二 精 123&#xA;技能 技能一 名字 自回自动 / / / / 持续s 123&#xA;技能二 名字 自回自动 / / / / 持续s 123&#xA;技能三 名字 自回自动 / / / / 持续s 123</description>
     </item>
     <item>
-      <title>集体目录</title>
-      <link>https://alirea.top/%E4%BF%A1%E6%81%AF/%E9%9B%86%E4%BD%93%E7%9B%AE%E5%BD%95/index.html</link>
+      <title>目录</title>
+      <link>https://alirea.top/%E4%BF%A1%E6%81%AF/%E7%9B%AE%E5%BD%95/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alirea.top/%E4%BF%A1%E6%81%AF/%E9%9B%86%E4%BD%93%E7%9B%AE%E5%BD%95/index.html</guid>
-      <description>干员档案目录-所属篇 泰拉地形-Ⅰ [TT01山岳]&#xA;[TT02春木]&#xA;[TT03蓝冰]&#xA;[TT04金石]&#xA;[TT05飞瀑]&#xA;泰拉地形-Ⅱ [TT06可卡]&#xA;[TT07索尔]&#xA;[TT08远望]&#xA;切尔诺伯格术士学院 [CWA1亚力]&#xA;[CWA2米莉]&#xA;[CWA3艾米莉亚]&#xA;[CWA4卡米尔]&#xA;[CWA5艾克斯]&#xA;罗德岛驻外部 [RO01怒熊]&#xA;[RO11萨斯]&#xA;[RO21伊莉娅]&#xA;[RO31伊娜姆]&#xA;[RO41冷锋]&#xA;[RO51秋夕]&#xA;[RO61利尔]&#xA;[RO71硫酸]&#xA;整合运动 [1塔露拉]&#xA;[3碎骨]&#xA;[4浮士德]&#xA;[5梅菲斯特]&#xA;[6霜星]&#xA;[7爱国者]&#xA;七罪宗 [SDS1傲慢]&#xA;[SDS2妒忌]&#xA;[SDS3暴怒]&#xA;[SDS4懒惰]&#xA;[SDS5贪婪]&#xA;[SDS6暴食]&#xA;[SDS7色欲]&#xA;[■■■■■■]&#xA;西弗里斯魔术团 [SM01诡术师]&#xA;[SM02提线者]&#xA;[SM03魔刃]&#xA;[SM04狂风之弩]&#xA;[SM05影夜]&#xA;[SM06末本]&#xA;[SM07远霜]&#xA;[SM08米尔]&#xA;光明教会 [COL1初阳]&#xA;[COL2正午]&#xA;[COL3月夜]&#xA;[COL4明]&#xA;[COL5暗]&#xA;[COL6伊]&#xA;赛思科技 [SL01赛思]&#xA;[SL03艾特]&#xA;[SL06安迪]&#xA;挖坑，但是一年没填&#xA;花语 [FL01狗尾草]&#xA;[FL02茉莉]&#xA;[FL03山栀]&#xA;[FL04血蔷薇]&#xA;[FL05向阳]&#xA;[FL06蒲公英]</description>
+      <guid>https://alirea.top/%E4%BF%A1%E6%81%AF/%E7%9B%AE%E5%BD%95/index.html</guid>
+      <description>干员档案目录 干员档案 R401熔蜡 R402凝羽 [R403艾米尔] [R404代达罗斯] [R405特薇利儿] [R406通透] [R407兰珏] [R408火光] [R409弥留] [R410离别] [R411随意] [R412磁] [R413黑天] [R414吟] [R415潮涌] [IU07铁律嘉维尔] [PA41剑舞玫兰莎] [RR02埃琳娜] [LT07吉普利尔] [R416帕拉尼] [R417沐星] [SR04安娜·利普斯] [VC06荧光] [VC91查理] [SR20艾基尔] [VC92史尔曼] [VC93坚城] [？？？？风斩·冰华] [R418新生] [R419娴兰] [R421爱尔吉娜] [R422乌影] [R423零] [R424加百列] Re01缇雅 R426渡鸦 泰拉地形-Ⅰ 泰拉地形-Ⅰ [TT01山岳] [TT02春木] [TT03蓝冰] [TT04金石] [TT05飞瀑] 泰拉地形-Ⅱ 泰拉地形-Ⅱ [TT06可卡] [TT07索尔] [TT08远望] 切尔诺伯格术士学院 切尔诺伯格术士学院 [CWA1亚力] [CWA2米莉] [CWA3艾米莉亚] [CWA4卡米尔] [CWA5艾克斯] 罗德岛驻外部 罗德岛驻外部 [RO01怒熊] [RO11萨斯] [RO21伊莉娅] [RO31伊娜姆] [RO41冷锋] [RO51秋夕] [RO61利尔] [RO71硫酸] 整合运动 整合运动 [1塔露拉] [3碎骨] [4浮士德] [5梅菲斯特] [6霜星] [7爱国者] 七罪宗 七罪宗 [SDS1傲慢] [SDS2妒忌] [SDS3暴怒] [SDS4懒惰] [SDS5贪婪] [SDS6暴食] [SDS7色欲] [■■■■■■] 西弗里斯魔术团 西弗里斯魔术团 [SM01诡术师] [SM02提线者] [SM03魔刃] [SM04狂风之弩] [SM05影夜] [SM06末本] [SM07远霜] [SM08米尔] 光明教会 光明教会 [COL1初阳] [COL2正午] [COL3月夜] [COL4明] [COL5暗] [COL6伊] 赛思科技 赛思科技 [SL01赛思] [SL03艾特] [SL06安迪] 花语 花语 [FL01狗尾草] [FL02茉莉] [FL03山栀] [FL04血蔷薇] [FL05向阳] [FL06蒲公英] [FL07莲] [FL08樱] [FL09莱纳] [FL10拓步] 夜樱研究会 夜樱研究会 [NS01象谷] 浮空之梦 浮空之梦 DRM1圣娅 DRM2维可 DRM3莉丝 DRD1烛台 DRD2抹茶 DRD3银叉 DRD4霞音 DRD5雪见&amp;月铃</description>
     </item>
     <item>
       <title>攻击范围</title>

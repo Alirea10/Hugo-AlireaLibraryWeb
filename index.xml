@@ -5,7 +5,7 @@
     <link>https://alirea.top/index.html</link>
     <description>欢迎来到我——Alirea的【大图书馆】。&#xA;此网页使用 Hugo 搭配主题 ReLearn 生成，如果你也想试试看，可以使用这两个工具&#xA;尽管目前仍然是由我编写的明日方舟自制干员居多，但是也许未来我会用作别处？&#xA;如果你感兴趣，可以从这里开始阅读我自制的干员目录，尽管它们的电子化率不足1%，全是纸质的&#xA;曾经我还写过日志，不知道未来会不会写上来。目标是一周一位干员被创作、一周两位干员被转录。</description>
     <generator>Hugo</generator>
-    <language>cn</language>
+    <language>zh-CN</language>
     <lastBuildDate>Sun, 30 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://alirea.top/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,13 +14,6 @@
       <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://alirea.top/%E6%A1%A3%E6%A1%88/index.html</guid>
       <description></description>
-    </item>
-    <item>
-      <title>info</title>
-      <link>https://alirea.top/%E4%BF%A1%E6%81%AF/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alirea.top/%E4%BF%A1%E6%81%AF/index.html</guid>
-      <description>这是一个存东西的地方：）</description>
     </item>
     <item>
       <title>Beta</title>
@@ -35,6 +28,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alirea.top/about/index.html</guid>
       <description></description>
+    </item>
+    <item>
+      <title>其他信息</title>
+      <link>https://alirea.top/%E4%BF%A1%E6%81%AF/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alirea.top/%E4%BF%A1%E6%81%AF/index.html</guid>
+      <description>这是一个存东西的地方：）</description>
     </item>
   </channel>
 </rss>
