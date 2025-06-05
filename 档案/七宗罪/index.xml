@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>七宗罪 :: AlireaLibrary</title>
+    <link>https://alirea.top/%E6%A1%A3%E6%A1%88/%E4%B8%83%E5%AE%97%E7%BD%AA/index.html</link>
+    <description>七宗罪是一套我由2020年开始设计的组织，第一名干员[SDS1傲慢]是在2020年12月25日设计的。是最早一批设计的干员和组织之一。&#xA;设计这个名字的灵感是源于约会大作战的七罪，尽管这个组织和她完全没有关系，但灵感之间的关联没那么重要？还有当时在读从零开始的异世界生活，对于其中的大罪司教十分感兴趣。但是正如我的写作特性那样，这些灵感在我的干员设计中不会出现，她们仅仅是为我提供了思路而已。&#xA;七宗罪由七名角色组成，她们全是四星角色，当时明日方舟缺少以组织为单位提供强力buff的角色，当时最早的队伍buff应该是2020年8月11日出的安哲拉，可以对深海猎人提供攻击速度，后来的2021年5月1日，覆巢之下的歌蕾蒂娅应该是第一个拥有组织强力buff的角色。而此档案团队buff的理念受到安哲拉的启发，引用宗教中的七宗罪概念，设计了这一套角色。&#xA;Enjoy it&#xA;傲慢（Pride）&#xA;嫉妒（Envy）&#xA;愤怒（Wrath）&#xA;懒惰（Sloth）&#xA;贪婪（Greed/Avarice）&#xA;暴食（Gluttony）&#xA;色欲（Lust）</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <atom:link href="https://alirea.top/%E6%A1%A3%E6%A1%88/%E4%B8%83%E5%AE%97%E7%BD%AA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SDS1傲慢</title>
+      <link>https://alirea.top/%E6%A1%A3%E6%A1%88/%E4%B8%83%E5%AE%97%E7%BD%AA/sds1%E5%82%B2%E6%85%A2/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alirea.top/%E6%A1%A3%E6%A1%88/%E4%B8%83%E5%AE%97%E7%BD%AA/sds1%E5%82%B2%E6%85%A2/index.html</guid>
+      <description>傲慢&#x9;Pride 分支 分支 描述 铁卫 能够阻挡三个敌人 面板 攻击力 防御力 法抗 生命值 345 690 0 3100 攻速 再部署 费用 阻挡 1.2s 70s 21 3 精二满级级&#xA;信赖 防御力+75&#xA;潜能2 潜能3 潜能4 潜能5 潜能6 部署费用-1 再部署时间-4秒 生命上限+160 第一天赋效果增强 部署费用-1 天赋 天赋一 宗令·傲慢 精1 部署后，若队伍中有超过三名【七宗罪】的干员，【七宗罪】的防御力提升20%（+3%），周围八格一名地面干员防御力+20%&#xA;技能 技能一 防御力提升·β 自回手动 5/38 5/37 5/36 10/35 持续35s 防御力+50%（60，70，80）&#xA;技能二 傲慢之墙 自回自动 45/75 50/70 55/65 55/60 持续20s（22，24，26） 防御力+80%，阻挡数-1，攻击改为对周围八格所有敌人造成相当于攻击力100%的法术伤害并将其中未阻挡的地面可达目标传送至自身位置，更容易受到敌方攻击，周围四格的我方单位防御力提升10%（15，20，30）</description>
+    </item>
+  </channel>
+</rss>
