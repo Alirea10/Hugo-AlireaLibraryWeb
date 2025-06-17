@@ -23,7 +23,7 @@
       <description>看着很乱的git分支，是时候规定一些规范了。&#xA;md：对干员档案进行添加、扩充、修改，包括权重、title等元数据的修改。&#xA;template：对干员模板的修改。&#xA;hugo：对Hugo、git设置和任何静态网页的修改。&#xA;index：对_index.md文件的修改，通常涉及主页，章节文件夹和新机制。&#xA;content：对目干员目录的修改。&#xA;auto：由机器人或自动脚本提交的内容。&#xA;log：对日志进行添加、扩充、修改。&#xA;info：所有信息文件夹下的内容，除了上述特殊规定的，均由此前缀提交&#xA;beta：所有beta文件夹下的创意均由此前缀提交&#xA;……：其他事项，可不写前缀，但除极特殊情况，不应该出现这种情况</description>
     </item>
     <item>
-      <title>攻击范围</title>
+      <title>其他模板</title>
       <link>https://alirea.top/%E4%BF%A1%E6%81%AF/%E5%85%B6%E4%BB%96%E6%A8%A1%E6%9D%BF/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alirea.top/%E4%BF%A1%E6%81%AF/%E5%85%B6%E4%BB%96%E6%A8%A1%E6%9D%BF/index.html</guid>
